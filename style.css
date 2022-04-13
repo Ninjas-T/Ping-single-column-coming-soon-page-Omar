@@ -118,7 +118,7 @@ button:hover {
   color: hsl(0, 0%, 59%);
 }
 
-/* @media (min-width: 768px) and (max-width: 991.98px) {
+@media (min-width: 768px) and (max-width: 991.98px) {
 
   form {
     flex-direction: row;
@@ -151,4 +151,4 @@ button:hover {
 		width: 40%;
 		margin-left: 20px;
 	}
-} */
+}
