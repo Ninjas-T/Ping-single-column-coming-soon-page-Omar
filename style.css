@@ -64,7 +64,7 @@ form input[type="email"] {
   outline: none;
 }
 form input[type="email"]::placeholder {
-  color: hsl(223, 100%, 88%)=;
+  color: hsl(223, 100%, 88%);
 }
 
 form button[type="submit"] {
